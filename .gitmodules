@@ -1,0 +1,3 @@
+[submodule "valarmulti"]
+	path = valarmulti
+	url = https://github.com/chellsvalar/valarmulti.git
